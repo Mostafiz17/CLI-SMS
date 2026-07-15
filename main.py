@@ -1,7 +1,7 @@
 Search_opition = input("Enter your search option (e.g., 'name', 'date', 'category'): ")
 
-if Search_opition == '1' or Search_opiton == "Add Student":
-    # Code to add a student
+if Search_opition == '1' or "Add Student":
+    def Add_student(student)
     name = input("Enter student's name: ")
     date = input("Enter enrollment date (YYYY-MM-DD): ")
     category = input("Enter student's category: ")
