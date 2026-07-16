@@ -41,6 +41,7 @@ def main():
             for student in students:
                 if given_id.lower() == student["student_id"]:
                     print(student)
+                student
             
 
 
